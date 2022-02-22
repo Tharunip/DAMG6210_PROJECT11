@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T21:52:25.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dwJRnk_f9nKI19KJbSrz" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T21:53:38.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pmxTjq2NxkjFHJyfw_kM" version="16.6.2" type="github" pages="2">
   <diagram id="Zf10Iz8SibZ3wQ2_2NVc" name="Page-1">
-    <mxGraphModel dx="3051" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3880" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -811,6 +811,84 @@
             <mxPoint x="-670" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5qjg0BzUr6v3UqNXCRc0" name="Page-2">
+    <mxGraphModel dx="1090" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="X6avTzkQCpSEHeLWiGY0-0" />
+        <mxCell id="X6avTzkQCpSEHeLWiGY0-1" parent="X6avTzkQCpSEHeLWiGY0-0" />
+        <UserObject label="OBJECT" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-7">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="140" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, ObjectType)" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-8">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="140" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CUSTOMER" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-9">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="180" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CARD ACCOUNT" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="220" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="DEBIT CARD" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-11">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="260" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CREDIT CARD" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="300" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CHARGES" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-13">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="340" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MERCHANT" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-14">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="100" y="380" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, Account ID, Exp Date, Card Type, Customer ID )" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-15">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="220" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, Customer ID, Customer Name, Customer Adress)" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-16">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="180" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, DeAccount ID, Bank No )" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-17">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="260" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, CrAccount ID, Cur Bal )" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-18">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="300" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, Merch ID, CrAccount ID, Charge Date, Charge Time, Amount)" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-19">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="340" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(OID, Merch ID, Merch Addr )" treeRoot="1" id="X6avTzkQCpSEHeLWiGY0-20">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="X6avTzkQCpSEHeLWiGY0-1">
+            <mxGeometry x="220" y="380" width="380" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
